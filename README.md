@@ -33,14 +33,8 @@
 </p>
 <p>
 -WIDTH - screen width
+</p>
+<p>
 -HEIGHT - screen height
 </p>
-<p>
 
-</p>
-<p>
-
-</p>
-<p>
-
-</p>
